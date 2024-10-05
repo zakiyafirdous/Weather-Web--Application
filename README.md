@@ -11,8 +11,8 @@ CSS
 JavaScript 
 Bootstrap 
 api.openweathermap.org
-![Screenshot 2024-05-09 131221](https://github.com/user-attachments/assets/cf39ac04-dff6-4f75-9f07-9aee6d8cfc81)
 
+![Screenshot 2024-05-09 133250](https://github.com/user-attachments/assets/dccfcd2d-cb31-4c21-b9d4-8ec03c1a3de1)
 ![Screenshot 2024-05-09 132949](https://github.com/user-attachments/assets/b290c82a-531f-48df-bb25-ea042b127588)
 
 
